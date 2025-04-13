@@ -1,0 +1,19 @@
+{
+  data: [
+  {  menuItem: 'Poha',
+     menuId: 1
+  },
+  {  menuItem: 'Upma',
+     menuId: 2
+  },
+  {  menuItem: 'Idli',
+     menuId: 3
+  },
+  {  menuItem: 'Khamman',
+     menuId: 4
+  },
+  {  menuItem: 'Samosa',
+     menuId: 3
+  }
+  ]
+}
