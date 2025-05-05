@@ -8,6 +8,7 @@
                 "Pasta",
                 "Besan Gatta"
             ],
+            "isPromoted": false,
             "ratings": 4.3
         },
         {
@@ -17,6 +18,7 @@
                 "Combo Thali",
                 "Full Thali"
             ],
+            "isPromoted": true,
             "ratings": 4.9
         },
         {
@@ -28,6 +30,7 @@
                 "Naan",
                 "Chapati"
             ],
+            "isPromoted": false,
             "ratings": 5
         },
         {
@@ -39,6 +42,7 @@
                 "Fried Rice",
                 "upma"
             ],
+            "isPromoted": true,
             "ratings": 4.5
         }
     ]
