@@ -1,5 +1,6 @@
 {
     "data": {
+        "restaurentName": "The Great Bhojnalaya",
         "menuCategory": [
             {
                 "menuCategoryId": 1,
