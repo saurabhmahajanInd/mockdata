@@ -1,106 +1,105 @@
 {
     "data": {
-		"menuCategory": [
-			{   
-				"menuCategoryId": 1,
-				"menuTitle": "Recommended",
-				"menuItems": [
-					{
-						"itemName": "DahiWada",
-						"price": "100 rs",
-						"description": "desi dahi with original red chatni, best seller"
-					},
-					{
-						"itemName": "Chole Kulche",
-						"price": "180 rs",
-						"description": "Desi gehu se bana hamara apna chole khulche"
-					},
-					{
-						"itemName": "Biryani",
-						"price": "200 rs",
-						"description": "Serve for 2 people | all Original Garam Masala used",
-					},
-					{
-						"itemName": "Rabdi Jalebi",
-						"price": "300 rs",
-						"description": "Desi Ghee and Kesar se bani Jalebi....",
-					},
-				]
-			},
-			{   
-				"menuCategoryId": 2,
-				"menuTitle": "All New Dishes",
-				"menuItems": [
-					{
-						"itemName": "Pani Puri",
-						"price": "50 rs",
-						"description": "6 puris with dahi and charkha pani"
-					},
-					{
-						"itemName": "Dal Rice",
-						"price": "120 rs",
-						"description": "Desi ghee se fried Rice"
-					},
-					{
-						"itemName": "Paneer Tikka",
-						"price": "200 rs",
-						"description": "Desi Cow ke milk se bana Panner...",
-					},
-				]
-			},
-			{   
-				"menuCategoryId": 3,
-				"menuTitle": "Parathas",
-				"menuItems": [
-					{
-						"itemName": "Alu Parata",
-						"price": "100 rs",
-						"description": "Alu Alu Alu"
-					},
-					{
-						"itemName": "Mathi Parata",
-						"price": "120 rs",
-						"description": "Mathi ParataMathi ParataMathi ParataMathi ParataMathi ParataMathi ParataMathi ParataMathi ParataMathi ParataMathi ParataMathi Parata"
-					},
-					{
-						"itemName": "Palak Tikka",
-						"price": "150 rs",
-						"description": "Palak Paratha Palak Paratha Palak Paratha Palak Paratha Palak Paratha Palak Paratha Palak Paratha Palak Paratha Palak Paratha Palak Paratha Palak Paratha Palak Paratha Palak Paratha ",
-					},
-					{
-						"itemName": "Pudina Paratha",
-						"price": "150 rs",
-						"description": "Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha ",
-					},
-					{
-						"itemName": "Mix Veg Paratha",
-						"price": "180 rs",
-						"description": "All veg used",
-					}
-				]
-			},
-			{   
-				"menuCategoryId": 4,
-				"menuTitle": "Snacks",
-				"menuItems": [
-					{
-						"itemName": "Poha",
-						"price": "25 rs",
-						"description": "Poha Poha Poha Poha Poha "
-					},
-					{
-						"itemName": "Jalebi",
-						"price": "120 rs",
-						"description": "Jalebi Jalebi Jalebi Jalebi Jalebi Jalebi Jalebi Jalebi Jalebi "
-					},
-					{
-						"itemName": "Smosa",
-						"price": "20 rs",
-						"description": "Samosa Samosa Samosa Samosa Samosa Samosa Samosa Samosa Samosa Samosa ",
-					}
-				]
-			}
-			
-		],
-	}
+        "menuCategory": [
+            {
+                "menuCategoryId": 1,
+                "menuTitle": "Recommended",
+                "menuItems": [
+                    {
+                        "itemName": "DahiWada",
+                        "price": "100 rs",
+                        "description": "desi dahi with original red chatni, best seller"
+                    },
+                    {
+                        "itemName": "Chole Kulche",
+                        "price": "180 rs",
+                        "description": "Desi gehu se bana hamara apna chole khulche"
+                    },
+                    {
+                        "itemName": "Biryani",
+                        "price": "200 rs",
+                        "description": "Serve for 2 people | all Original Garam Masala used"
+                    },
+                    {
+                        "itemName": "Rabdi Jalebi",
+                        "price": "300 rs",
+                        "description": "Desi Ghee and Kesar se bani Jalebi...."
+                    }
+                ]
+            },
+            {
+                "menuCategoryId": 2,
+                "menuTitle": "All New Dishes",
+                "menuItems": [
+                    {
+                        "itemName": "Pani Puri",
+                        "price": "50 rs",
+                        "description": "6 puris with dahi and charkha pani"
+                    },
+                    {
+                        "itemName": "Dal Rice",
+                        "price": "120 rs",
+                        "description": "Desi ghee se fried Rice"
+                    },
+                    {
+                        "itemName": "Paneer Tikka",
+                        "price": "200 rs",
+                        "description": "Desi Cow ke milk se bana Panner..."
+                    }
+                ]
+            },
+            {
+                "menuCategoryId": 3,
+                "menuTitle": "Parathas",
+                "menuItems": [
+                    {
+                        "itemName": "Alu Parata",
+                        "price": "100 rs",
+                        "description": "Alu Alu Alu"
+                    },
+                    {
+                        "itemName": "Mathi Parata",
+                        "price": "120 rs",
+                        "description": "Mathi ParataMathi ParataMathi ParataMathi ParataMathi ParataMathi ParataMathi ParataMathi ParataMathi ParataMathi ParataMathi Parata"
+                    },
+                    {
+                        "itemName": "Palak Tikka",
+                        "price": "150 rs",
+                        "description": "Palak Paratha Palak Paratha Palak Paratha Palak Paratha Palak Paratha Palak Paratha Palak Paratha Palak Paratha Palak Paratha Palak Paratha Palak Paratha Palak Paratha Palak Paratha "
+                    },
+                    {
+                        "itemName": "Pudina Paratha",
+                        "price": "150 rs",
+                        "description": "Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha Pudina Paratha "
+                    },
+                    {
+                        "itemName": "Mix Veg Paratha",
+                        "price": "180 rs",
+                        "description": "All veg used"
+                    }
+                ]
+            },
+            {
+                "menuCategoryId": 4,
+                "menuTitle": "Snacks",
+                "menuItems": [
+                    {
+                        "itemName": "Poha",
+                        "price": "25 rs",
+                        "description": "Poha Poha Poha Poha Poha "
+                    },
+                    {
+                        "itemName": "Jalebi",
+                        "price": "120 rs",
+                        "description": "Jalebi Jalebi Jalebi Jalebi Jalebi Jalebi Jalebi Jalebi Jalebi "
+                    },
+                    {
+                        "itemName": "Smosa",
+                        "price": "20 rs",
+                        "description": "Samosa Samosa Samosa Samosa Samosa Samosa Samosa Samosa Samosa Samosa "
+                    }
+                ]
+            }
+        ]
+    }
 }
